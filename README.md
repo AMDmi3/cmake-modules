@@ -24,3 +24,7 @@ example:
 
 See inside .cmake files to find what variables these modules define
 and what components they have.
+
+These modules come under CC0 or Public Domain, whichever you find
+applicable, e.g. you may freely use them in your projects, without
+any restrictions and without attribution.
