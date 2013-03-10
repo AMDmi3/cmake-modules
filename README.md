@@ -4,6 +4,10 @@ These are custom CMake modules used to locate certain libraries:
 - FFTW
 - GSL
 - OpenCV
+- GLEW
+- GLES
+- GLES2
+- SDL_gles
 
 To use a module, place .cmake file under cmake/ subfolder in your
 project and add
